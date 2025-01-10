@@ -5,7 +5,7 @@
 
 ## About Me
 
-I'm a PhD student specializing in blockchain, federated learning, game theory, and incentive mechanisms.
+I'm a PhD student.
 
 - 🌍 Based at the National University of Singapore
 - 📚 Currently focusing on blockchain, federated learning, game theory, and incentive mechanisms
