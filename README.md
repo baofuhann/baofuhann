@@ -24,8 +24,3 @@ I'm a PhD student.
 ## GitHub Stats
 
 ![Bao Fu Hann's GitHub stats](https://github-readme-stats.vercel.app/api?username=baofuhann&show_icons=true&theme=radical)
-
-## Connect with Me
-
-[![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter)](https://twitter.com/baofuhann)
-[![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](mailto:your.email@example.com)
