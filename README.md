@@ -6,8 +6,6 @@
 ## About Me
 
 I'm a PhD student.
-
-- 🌍 Based at the National University of Singapore
 - 📚 Currently focusing on blockchain, federated learning, game theory, and incentive mechanisms
 
 ## Technologies & Tools
